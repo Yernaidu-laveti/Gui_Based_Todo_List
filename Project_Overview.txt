@@ -1,0 +1,18 @@
+Make Jar File for this TaskManager.
+There are different modules(pages)
+1.SignIn Module
+2.Login Module
+3.Main Module
+
+After Entering Login Module
+    There are Following options will be displayed
+    -->NAME and PASSWORD TEXT boxes will be displayed
+    -->SUBMIT button
+    -->SIGNIN button will be displayed for user with no existing account.
+    After successfully entering details user redirect to Main module.
+SIGNIN module
+    In SIGNIN module user have to Enter PHNO and NAME for creating account.
+    If Account exists then Account already exists message will be displayed on Top of Screen in center of page
+
+    
+
