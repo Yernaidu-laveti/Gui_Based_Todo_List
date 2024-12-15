@@ -14,5 +14,13 @@ SIGNIN module
     In SIGNIN module user have to Enter PHNO and NAME for creating account.
     If Account exists then Account already exists message will be displayed on Top of Screen in center of page
 
-    
+TaskManager Module
+    Add Task
+    Delete Task
+    Mark As Completed
+    UpDate Task & View Task 
+
+
+
+
 
